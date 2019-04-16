@@ -15,7 +15,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    this.onSearch('movies')
+    this.onSearch('Nasa Moon')
   }
 
   onSearch = async term => {
